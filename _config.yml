@@ -1,15 +1,16 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
+title:              SEO for Beginners
+logo_title:         seo4beginners 
+email:             info@seo4beginners.com
+description:       In-person training or Online
+author:             seo4beginners
 baseurl:            ""
 url:                ""
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
-instagram_username:  
+twitter_username:   seo4beginners
+github_username:    
+facebook_username:  seo4beginners
+instagram_username:  seo4beginners
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
